@@ -3,3 +3,4 @@
 1. press noise start (green button)
 2. press button enabler (red button)
 3. press keys on your keyboard that corespond to the piano keys
+4. if you somehow messed up the instructions just CTRL + R
