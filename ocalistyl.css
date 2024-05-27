@@ -1,0 +1,66 @@
+.blacks{
+    height: 200px;
+    width: 1000px;
+    display: flex;
+    position: fixed;
+}
+
+.blacks div{
+    height: 70px;
+    width: 10px;
+    color: aliceblue;
+    background-color: black;
+    border: 3px rgb(8, 8, 8) solid;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+.whites{
+    height: 200px;
+    width: 1000px;
+    display: flex;
+}
+
+.whites div{
+    height: 30px;
+    width: 30px;
+    color: black;
+    background-color: aliceblue;
+    border: 3px rgb(225, 231, 237) solid;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 80px;
+}
+
+#keysw{
+    margin-left: 28px;
+}
+
+#keyse{
+    margin-left: 20px;
+}
+
+#keyst{
+    margin-left: 56px;
+}
+
+#keysy{
+    margin-left: 20px;
+}
+#keysu{
+    margin-left: 20px;
+}
+
+#start{
+    background-color: crimson;
+    color: white;
+    margin: 20px 20px;
+    border-radius:5px;
+}
+#stop{
+    background-color: olivedrab;
+    color: white;
+    margin: 20px 20px;
+    border-radius:5px;
+}
